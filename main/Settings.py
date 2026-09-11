@@ -1,1 +1,2 @@
-
+bot_token = "MTU0NzgxOTE0NzQ5NTIxMTEwOA.G28s60.AOmMrSMgSGTuui-jyYbpFbo0UqCvAzpvDOVkWg"
+guild_id = 1547817510760615996
